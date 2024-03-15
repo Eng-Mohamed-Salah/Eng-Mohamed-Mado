@@ -7,7 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eng-mohamed-salah&label=Profile%20views&color=0e75b6&style=flat" alt="eng-mohamed-mado" /> </p>
 
+
 <p align="left"> <a href="https://twitter.com/engmohamedmado" target="blank"><img src="https://img.shields.io/twitter/follow/engmohamedmado?logo=twitter&style=for-the-badge" alt="engmohamedmado" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/mohamed-m-salah" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed-m-salah?logo=linkedin&style=for-the-badge" alt="Eng-Mohamed-M-Salah" /></a> </p>
+<p align="left"> <a href="https://www.facebook.com/TeamDarkLord" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed-m-salah?logo=facebook&style=for-the-badge" alt="Eng-Mohamed-M-Salah" /></a> </p>
+
 
 - 🔭 I’m currently working on [Gym](https://engineersoft-codegym.netlify.app/),[Movies](https://blurtv-movies.web.app/)
 
