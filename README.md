@@ -22,12 +22,11 @@
 - 📫 How to reach me **mohamed.m.salah.ahmed@gmail.com**
 
 - ⚡ Fun fact **i am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/eng-mohamedsalah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="eng-mohamedsalah" height="30" width="40" /></a>
 <a href="https://twitter.com/engmohamedmado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="engmohamedmado" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed-salah-002244156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-salah-002244156" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-m-salah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-salah-002244156" height="30" width="40" /></a>
 <a href="https://fb.com/teamdarklord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="teamdarklord" height="30" width="40" /></a>
 <a href="https://instagram.com/eng.mo.salah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eng.mo.salah" height="30" width="40" /></a>
 </p>
