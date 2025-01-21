@@ -1,6 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://Eng-Mohamed-Salah.io)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJjcDBrZXpuOHF0ZWszdmhkcXZwZWkxZndwbjYwZG0yM21sa2FvNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/qwi7fF1bfJQMPlTZ43/giphy.gif
+)">
 
 <h1 align="center">Hi 👋, I'm Mohamed Salah</h1>
 <h3 align="center">A passionate Full Stack developer from Egypt</h3>
